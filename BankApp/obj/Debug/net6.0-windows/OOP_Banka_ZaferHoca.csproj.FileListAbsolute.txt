@@ -1,0 +1,17 @@
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\bin\Debug\net6.0-windows\OOP_Banka_ZaferHoca.exe
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\bin\Debug\net6.0-windows\OOP_Banka_ZaferHoca.deps.json
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\bin\Debug\net6.0-windows\OOP_Banka_ZaferHoca.runtimeconfig.json
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\bin\Debug\net6.0-windows\OOP_Banka_ZaferHoca.dll
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\bin\Debug\net6.0-windows\OOP_Banka_ZaferHoca.pdb
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.Form1.resources
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.csproj.GenerateResource.cache
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.AssemblyInfo.cs
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.dll
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\refint\OOP_Banka_ZaferHoca.dll
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.pdb
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\OOP_Banka_ZaferHoca.genruntimeconfig.cache
+C:\Users\hakan\Desktop\BilgeAdam\SınavOrnek\OOP_Banka_ZaferHoca\obj\Debug\net6.0-windows\ref\OOP_Banka_ZaferHoca.dll
